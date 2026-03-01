@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/3379-transformed-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/3379-transformed-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
