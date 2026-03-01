@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -32,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/vamshi-muktha/LeetCode-Solutions/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
